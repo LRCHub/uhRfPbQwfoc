@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "CHIMERA",
+  "base_artist": "Takanashi Kiara",
+  "createdAt": "2026-01-07T04:59:05.265713Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Chimera",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": true,
+      "path": "select/01_The_Chimera_The_Smashing_Pumpkins.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chimera",
+      "artist": "Gianni Morandi",
+      "has_synced": false,
+      "path": "select/02_Chimera_Gianni_Morandi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chimera",
+      "artist": "Xeno & Oaklander",
+      "has_synced": true,
+      "path": "select/03_Chimera_Xeno_&_Oaklander.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chimera (feat. Lil West)",
+      "artist": "Polyphia feat. Lil West",
+      "has_synced": true,
+      "path": "select/04_Chimera_(feat._Lil_West)_Polyphia_feat._Lil_West.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chimera",
+      "artist": "Polyphia feat․ Lil West",
+      "has_synced": true,
+      "path": "select/05_Chimera_Polyphia_feat._Lil_West.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chimera (Instrumental)",
+      "artist": "Polyphia",
+      "has_synced": true,
+      "path": "select/06_Chimera_(Instrumental)_Polyphia.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chimera",
+      "artist": "Polyphia",
+      "has_synced": true,
+      "path": "select/07_Chimera_Polyphia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sound Chimera",
+      "artist": "Laur",
+      "has_synced": true,
+      "path": "select/08_Sound_Chimera_Laur.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chimera",
+      "artist": "The Tea Party",
+      "has_synced": true,
+      "path": "select/09_Chimera_The_Tea_Party.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chimera",
+      "artist": "Mayhem",
+      "has_synced": false,
+      "path": "select/10_Chimera_Mayhem.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chimera (feat. Lil West)",
+      "artist": "Polyphia",
+      "has_synced": true,
+      "path": "select/11_Chimera_(feat._Lil_West)_Polyphia.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chimera",
+      "artist": "Polyphia featuring Lil West",
+      "has_synced": true,
+      "path": "select/12_Chimera_Polyphia_featuring_Lil_West.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Marvel of Chimera",
+      "artist": "Neopera",
+      "has_synced": false,
+      "path": "select/13_The_Marvel_of_Chimera_Neopera.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CHIMERA",
+      "artist": "Takanashi Kiara",
+      "has_synced": false,
+      "path": "select/pl_01_CHIMERA_Takanashi_Kiara.txt"
+    }
+  ]
+}
